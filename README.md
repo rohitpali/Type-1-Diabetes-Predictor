@@ -1,1 +1,2 @@
 # Type-1-Diabetes-Predictor
+A machine learning project focused on early diagnosis of Type-1 Diabetes using clinical data. The predictive model achieves 89% accuracy, thanks to extensive data preprocessing and feature engineering to ensure reliability. Cross-validation techniques were employed to enhance model robustness, providing actionable insights for early intervention and improving patient outcomes
